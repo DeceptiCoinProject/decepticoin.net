@@ -10,7 +10,7 @@ deploy:
   keep-history: true
   local_dir: _site
   on: master
-  fqdn: turtlecoin.lol
+  fqdn: decepticoin.net
   verbose: true
 
 before_install:
