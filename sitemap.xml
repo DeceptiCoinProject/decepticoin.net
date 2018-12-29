@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://turtlecoin.lol/</loc>
+    <loc>https://decepticoin.net/</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://turtlecoin.lol/brand/</loc>
+    <loc>https://decepticoin.net/brand/</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://turtlecoin.lol/wallet/</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://decepticoin.net/wallet/</loc>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
